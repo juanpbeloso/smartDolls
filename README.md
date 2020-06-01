@@ -11,7 +11,7 @@ Table of contents
    * [Table of contents](#table-of-contents)
    * [Functionality](#Functionality)
    * [Review](#Review)
-   * [Component list](#Component list)
+   * [Component list](#Component-list)
      
 <!--te-->
 
