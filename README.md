@@ -4,6 +4,17 @@ This proyect was created out of the need to help and complement the treatment of
 
 ![status](https://img.shields.io/badge/Status-finished-green) ![readme](https://img.shields.io/badge/readme-OK-green.svg?colorB=00C106) ![version](https://img.shields.io/badge/tag-v0.1-orange.svg)
 
+Table of contents
+=================
+
+<!--ts-->
+   * [gh-md-toc](#gh-md-toc)
+   * [Table of contents](#table-of-contents)
+   * [Functionality](#Functionality)
+   * [Review](#Review)
+     
+<!--te-->
+
 # Functionality
 ![Functionality Diagram](https://github.com/juanpbeloso/smartDolls/blob/master/images/diagram.png)
 
