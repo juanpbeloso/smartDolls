@@ -5,7 +5,7 @@
  */
 
 /* A2.mp3 -> Hand touch (That's ok)
- * A3.mp3 -> Pirvate parts (Don't touch!)
+ * A3.mp3 -> Intimate areas (Don't touch!)
  * A1.mp3 -> Cheek touch (That's ok)
  */
 
