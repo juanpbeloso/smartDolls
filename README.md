@@ -32,3 +32,5 @@ Table of contents
   * 1 x Kingston 2GB SD Card
   * Some cables and connectors
   
+# Copyright
+Copyright (C) 2019-2020 Juan Pablo BELOSO - juanpbeloso@gmail.com)
