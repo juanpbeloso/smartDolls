@@ -11,6 +11,7 @@ Table of contents
    * [Table of contents](#table-of-contents)
    * [Functionality](#Functionality)
    * [Review](#Review)
+   * [Component list](#Component list)
      
 <!--te-->
 
@@ -19,3 +20,5 @@ Table of contents
 
 # Review
 ![Puppet](https://github.com/juanpbeloso/smartDolls/blob/master/images/puppet-func-diagram.png)
+
+# Component list
