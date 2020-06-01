@@ -22,3 +22,13 @@ Table of contents
 ![Puppet](https://github.com/juanpbeloso/smartDolls/blob/master/images/puppet-func-diagram.png)
 
 # Component list
+  * 1 x Stuffed doll
+  * 1 x Mini Mp3 Player Module DFPlayer Micro SD
+  * 1 x ATMEL ATTINY85-20PU DIP-8 Tiny85-20PU CHIP IC
+  * 1 x Base dip-8 for ATTINY85
+  * Single Side Glass Fiber PCB Copper Clad Plate
+  * 3 x 35mm Piezo Elements buzzer Sounder Sensor Trigger
+  * 1 x L7805cv-linear voltage regulator
+  * 1 x Kingston 2GB SD Card
+  * Some cables and connectors
+  
