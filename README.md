@@ -4,3 +4,6 @@ This proyect was created out of the need to help and complement the treatment of
 
 # Functionality
 ![Functionality Diagram](https://github.com/juanpbeloso/smartDolls/blob/master/images/diagram.png)
+
+# Review
+![Puppet](https://github.com/juanpbeloso/smartDolls/blob/master/images/puppet-func-diagram.png)
