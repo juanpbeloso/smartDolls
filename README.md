@@ -32,4 +32,4 @@ Table of contents
   * Some cables and connectors
   
 # Copyright
-Copyright (C) 2019-2020 Juan Pablo BELOSO - juanpbeloso@gmail.com)
+Copyright (C) 2019-2020 Juan Pablo BELOSO - juanpbeloso@gmail.com
